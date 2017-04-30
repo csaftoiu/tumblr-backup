@@ -1,2 +1,2 @@
 # tumblr-backup
-Back it up
+Back up tumblr blogs locally, including private blogs
